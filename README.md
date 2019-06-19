@@ -1,3 +1,3 @@
 # test
 
-[:laughing:](../markdown/git.md)
+:laughing:
