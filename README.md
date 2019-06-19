@@ -1,3 +1,3 @@
 # test
 
-[:laughing:](./text.md)
+[:laughing:](./test)
